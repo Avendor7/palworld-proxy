@@ -1,0 +1,15 @@
+{
+  "name": "palworld-proxy",
+  "version": "1.0.0",
+  "description": "Proxy for Palworld's REST API to inject CORS headers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "express": "^4.19.2"
+  }
+}
